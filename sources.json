@@ -1,0 +1,824 @@
+{
+  "store": "123＋Nはりまや橋店",
+  "snapshotDate": "2026-11-04",
+  "researchDate": "2026-11-05",
+  "excluded": "ジャグラー系9機種、ゲーム数天井非搭載17機種、当店非掲載機種",
+  "note": "P-WORLD店舗掲載68機種のみ。31機種で平均条件の公開円期待値表あり。スルー等の追加条件の入力を実装。スルー別円表はバジリスク絆2天膳とモンハンサンブレイクの2機種のみ収録。条件の公開数値がなければ推定しない。",
+  "models": [
+    {
+      "number": 10,
+      "machine": "スマスロ 甲鉄城のカバネリ 海門決戦",
+      "lending": "47/160",
+      "url": "https://nana-press.com/kaiseki/machine/1097/35403/",
+      "ceiling": "既存機種データ参照",
+      "status": "公開期待値表あり",
+      "type": "既存収録",
+      "additionalConditions": {
+        "extra": {
+          "label": "周期数",
+          "max": 6,
+          "resetMax": 4,
+          "unit": "周期",
+          "reward": "次回CZ/AT等の周期規定に到達（モード差あり）"
+        }
+      }
+    },
+    {
+      "number": 11,
+      "machine": "L 東京喰種",
+      "lending": "47/160",
+      "url": "https://nana-press.com/kaiseki/machine/889/27250/",
+      "ceiling": "既存機種データ参照",
+      "status": "公開期待値表あり",
+      "type": "既存収録"
+    },
+    {
+      "number": 12,
+      "machine": "スマスロ リコリス・リコイル",
+      "lending": "47",
+      "url": "https://pastachoco.com/lycoris-recoil/",
+      "ceiling": "ST間850G/CZ間600G。設定変更後やST駆け抜け後はST間600G/CZ間250Gに短縮。上位CZ失敗後ST250G。",
+      "status": "公開期待値表あり",
+      "type": "天井あり/要確認"
+    },
+    {
+      "number": 13,
+      "machine": "スマスロ ミリオンゴッド-神々の軌跡-",
+      "lending": "47/160",
+      "url": "https://janjanmaru.com/slot/milliongod-kiseki/tenjo/",
+      "ceiling": "通常最深1480G、リセット後510/1000/1480Gの振り分け（510G固定ではありません）",
+      "status": "公開期待値表あり",
+      "type": "天井あり/要確認"
+    },
+    {
+      "number": 14,
+      "machine": "L 戦国乙女5 業火を穿つ宿焔の双刃",
+      "lending": "47/160",
+      "url": "https://slobase.jp/machines/sengoku-otome5",
+      "ceiling": "通常999G＋αまたは最大6周期、設定変更後650G＋αまたは最大4周期。周期経由の当選もある。",
+      "status": "公開期待値表あり",
+      "type": "天井あり/要確認",
+      "additionalConditions": {
+        "extra": {
+          "label": "周期数",
+          "max": 6,
+          "resetMax": 4,
+          "unit": "周期",
+          "reward": "規定周期で当選の可能性（最深周期）"
+        }
+      }
+    },
+    {
+      "number": 15,
+      "machine": "スマスロ モンキーターンV",
+      "lending": "47/160",
+      "url": "https://nana-press.com/kaiseki/machine/644/18016/",
+      "ceiling": "既存機種データ参照",
+      "status": "公開期待値表あり",
+      "type": "既存収録",
+      "additionalConditions": {
+        "extra": {
+          "label": "周期数",
+          "max": 6,
+          "resetMax": 4,
+          "unit": "周期",
+          "reward": "周期天井でAT当選"
+        }
+      }
+    },
+    {
+      "number": 16,
+      "machine": "スロット ソードアート・オンラインII",
+      "lending": "47",
+      "url": "https://nana-press.com/kaiseki/machine/1158/37243/",
+      "ceiling": "既存機種データ参照",
+      "status": "公開期待値表あり",
+      "type": "既存収録"
+    },
+    {
+      "number": 17,
+      "machine": "L 聖闘士星矢 黄金十二宮",
+      "lending": "47",
+      "url": "https://nana-press.com/kaiseki/machine/1193/39926/",
+      "ceiling": "AT通常1200G/リセット900G、CZ通常600G/リセット300G",
+      "status": "公開期待値表あり",
+      "type": "天井あり/要確認"
+    },
+    {
+      "number": 18,
+      "machine": "スマスロ 獣王",
+      "lending": "47/160",
+      "url": "https://nana-press.com/kaiseki/machine/1232/39330/",
+      "ceiling": "通常999G / リセット599G",
+      "status": "天井・仕様を参照",
+      "type": "天井あり/要確認"
+    },
+    {
+      "number": 19,
+      "machine": "スマスロ モンスターハンターライズ：サンブレイク",
+      "lending": "47/160",
+      "url": "https://pastachoco.com/monsterhunter-rise-sunbreak/",
+      "ceiling": "AT間999G＋αでAT当選、CZ間333G＋αでCZ当選、CZ6スルー後7回目成功濃厚、リプレイ5周期目でCZ。設定変更後もAT天井は999G。",
+      "status": "公開期待値表あり",
+      "type": "天井あり/要確認",
+      "additionalConditions": {
+        "through": {
+          "label": "CZ連続失敗回数",
+          "max": 6,
+          "unit": "スルー",
+          "reward": "6回失敗後の次回CZはAT濃厚",
+          "url": "https://jugglersnet.com/chumoku/monster-hunter-sun-brake"
+        },
+        "extra": {
+          "label": "リプレイ周期数",
+          "max": 5,
+          "unit": "周期",
+          "reward": "最大5周期でCZ当選"
+        }
+      },
+      "throughEVSource": "https://slopachi-note.com/mh-sunbreak-cz-tenjo"
+    },
+    {
+      "number": 20,
+      "machine": "L 革命機ヴァルヴレイヴ2",
+      "lending": "47/160",
+      "url": "https://nana-press.com/kaiseki/machine/1040/32805/",
+      "ceiling": "既存機種データ参照",
+      "status": "公開期待値表あり",
+      "type": "既存収録",
+      "additionalConditions": {
+        "through": {
+          "label": "決戦ボーナス連続スルー",
+          "max": 3,
+          "unit": "スルー",
+          "reward": "3回スルー後の次回ボーナスが革命ボーナス濃厚（AT確定ではない）",
+          "url": "https://moe-slotpachi.com/moe-pachislot/valvrave2-through-tenjo/"
+        },
+        "extra": {
+          "label": "周期数",
+          "max": 6,
+          "resetMax": 3,
+          "unit": "周期",
+          "reward": "規定周期でCZ当選"
+        }
+      }
+    },
+    {
+      "number": 21,
+      "machine": "スマスロ とある魔術の禁書目録2",
+      "lending": "47/160",
+      "url": "https://slot-toolbox.com/toaru-index2-tenjo/",
+      "ceiling": "AT間1200G/リセット777G。CZ間液晶G数800G/リセット200G",
+      "status": "公開期待値表あり",
+      "type": "天井あり/要確認"
+    },
+    {
+      "number": 22,
+      "machine": "真打 吉宗",
+      "lending": "47",
+      "url": "https://janjanmaru.com/slot/shinuchi-yoshimune/tenjo/",
+      "ceiling": "AT間1500G、設定変更後1000G、真BIG後700G。CZ間1000G/最大6周期は別カウンタ。",
+      "status": "公開期待値表あり",
+      "type": "天井あり/要確認"
+    },
+    {
+      "number": 23,
+      "machine": "L ゴジラ対エヴァンゲリオン2",
+      "lending": "47/160",
+      "url": "https://slot-toolbox.com/godzilla-eva2-tenjo/",
+      "ceiling": "ボーナス通常850G/リセット400G、AT間1500G/リセット750G",
+      "status": "天井・仕様を参照",
+      "type": "天井あり/要確認"
+    },
+    {
+      "number": 24,
+      "machine": "L 青春ブタ野郎はバニーガール先輩の夢を見ない",
+      "lending": "47/160",
+      "url": "https://ichikatsu.com/aobuta/",
+      "ceiling": "CZ間560G＋α。AT間2連以上後899G＋α、単発後699G＋α。設定変更後も699G＋α短縮。",
+      "status": "公開期待値表あり",
+      "type": "天井あり/要確認"
+    },
+    {
+      "number": 26,
+      "machine": "沖ドキ！BLACK",
+      "lending": "47",
+      "url": "https://nana-press.com/kaiseki/machine/778/22171/",
+      "ceiling": "通常A/B999G。引き戻し/チャンス200G。天国32G。リセット時は399G短縮抽選あり",
+      "status": "天井・仕様を参照",
+      "type": "天井あり/要確認"
+    },
+    {
+      "number": 27,
+      "machine": "戦国コレクション6",
+      "lending": "47/160",
+      "url": "https://pachimo.altema.jp/lsencoll6tenjo",
+      "ceiling": "最大999Gまたは6周期到達",
+      "status": "天井・仕様を参照",
+      "type": "天井あり/要確認"
+    },
+    {
+      "number": 28,
+      "machine": "スマスロ ラグナドール",
+      "lending": "47",
+      "url": "https://ichikatsu.com/ragnador/",
+      "ceiling": "通常999G / リセット500G",
+      "status": "公開期待値表あり",
+      "type": "天井あり/要確認"
+    },
+    {
+      "number": 29,
+      "machine": "スマスロ モンスターハンターライズ",
+      "lending": "47/160",
+      "url": "https://nana-press.com/kaiseki/machine/837/25430/",
+      "ceiling": "999G。クエスト6スルー後の7回目クエストでAT",
+      "status": "公開期待値表あり",
+      "type": "天井あり/要確認",
+      "additionalConditions": {
+        "through": {
+          "label": "クエスト連続失敗回数",
+          "max": 6,
+          "unit": "スルー",
+          "reward": "6回失敗後の次回クエストでAT当選濃厚"
+        },
+        "extra": {
+          "label": "リプレイ回数セット",
+          "max": 5,
+          "unit": "セット",
+          "reward": "5セット目（累計200回）でCZ当選"
+        }
+      }
+    },
+    {
+      "number": 30,
+      "machine": "L ソードアート・オンライン オルタナティブ ガンゲイル・オンライン",
+      "lending": "47",
+      "url": "https://nana-press.com/kaiseki/machine/1244/40098/",
+      "ceiling": "通常975G / リセット300G",
+      "status": "公開期待値表あり",
+      "type": "天井あり/要確認"
+    },
+    {
+      "number": 31,
+      "machine": "スマスロ マギアレコード 魔法少女まどか☆マギカ外伝",
+      "lending": "47/160",
+      "url": "https://nana-press.com/kaiseki/machine/914/28426/",
+      "ceiling": "既存機種データ参照",
+      "status": "公開期待値表あり",
+      "type": "既存収録"
+    },
+    {
+      "number": 32,
+      "machine": "スロット Vivy -Fluorite Eye’s Song-",
+      "lending": "47",
+      "url": "https://nana-press.com/kaiseki/machine/1259/39726/",
+      "ceiling": "通常800G / リセット500G",
+      "status": "公開期待値表あり",
+      "type": "天井あり/要確認"
+    },
+    {
+      "number": 33,
+      "machine": "スマスロ 北斗の拳",
+      "lending": "47",
+      "url": "https://nana-press.com/kaiseki/machine/514/13775/",
+      "ceiling": "既存機種データ参照",
+      "status": "公開期待値表あり",
+      "type": "既存収録"
+    },
+    {
+      "number": 34,
+      "machine": "L 魔法少女にあこがれて",
+      "lending": "47/160",
+      "url": "https://slot-toolbox.com/mahoako-tenjo/",
+      "ceiling": "通常999G / リセット799G",
+      "status": "天井・仕様を参照",
+      "type": "天井あり/要確認"
+    },
+    {
+      "number": 35,
+      "machine": "L 炎炎ノ消防隊2",
+      "lending": "47/160",
+      "url": "https://nana-press.com/kaiseki/machine/1088/34532/",
+      "ceiling": "ボーナス間850G＋α/短縮650G＋α。炎炎ループ間2000G/短縮1500G、伝導者の罠5スルー後など別の天井もある。",
+      "status": "公開期待値表あり",
+      "type": "天井あり/要確認",
+      "additionalConditions": {
+        "through": {
+          "label": "伝導者の罠の連続失敗",
+          "max": 5,
+          "unit": "スルー",
+          "reward": "5スルー後の次回ボーナスはSPボーナス濃厚",
+          "url": "https://nana-press.com/kaiseki/machine/1088/34532/"
+        }
+      }
+    },
+    {
+      "number": 36,
+      "machine": "L 彼女、お借りします",
+      "lending": "47/160",
+      "url": "https://slot-toolbox.com/kanokari-tenjo/",
+      "ceiling": "BIG後1000G、REG後800G、設定変更後600G",
+      "status": "天井・仕様を参照",
+      "type": "天井あり/要確認"
+    },
+    {
+      "number": 37,
+      "machine": "スマスロ やじきた道中記参る！",
+      "lending": "47/160",
+      "url": "https://slobase.jp/machines/yajikita-mairu/",
+      "ceiling": "999まいる（実Gとは異なる専用pt）/6スルー",
+      "status": "天井・仕様を参照",
+      "type": "天井あり/要確認",
+      "additionalConditions": {
+        "through": {
+          "label": "関所チャレンジ連続失敗",
+          "max": 6,
+          "unit": "スルー",
+          "reward": "6スルー後7回目のCZは勝利濃厚",
+          "url": "https://slobase.jp/machines/yajikita-mairu"
+        }
+      }
+    },
+    {
+      "number": 38,
+      "machine": "L ToLOVEるダークネス TRANCE ver.8.7",
+      "lending": "47/160",
+      "url": "https://nana-press.com/kaiseki/machine/969/29582/",
+      "ceiling": "通常999G / リセット650G",
+      "status": "公開期待値表あり",
+      "type": "天井あり/要確認"
+    },
+    {
+      "number": 40,
+      "machine": "スマスロ 攻殻機動隊",
+      "lending": "47/160",
+      "url": "https://data.hazuse.com/index.php?genre=207&machine_code=5S1282",
+      "ceiling": "AT間999G / リセット699G、CZ間550G / リセット350G",
+      "status": "天井・仕様を参照",
+      "type": "天井あり/要確認"
+    },
+    {
+      "number": 41,
+      "machine": "L 南国育ち SPECIAL",
+      "lending": "47",
+      "url": "https://nana-press.com/kaiseki/machine/1173/37759/",
+      "ceiling": "通常799G / リセット500G",
+      "status": "天井・仕様を参照",
+      "type": "天井あり/要確認"
+    },
+    {
+      "number": 42,
+      "machine": "L 邪神ちゃんドロップキック",
+      "lending": "47",
+      "url": "https://haienavi.com/machines/jashin_chan",
+      "ceiling": "モード次第で749/799G等。スルー間天井10回",
+      "status": "天井・仕様を参照",
+      "type": "天井あり/要確認",
+      "additionalConditions": {
+        "through": {
+          "label": "ボーナススルー回数",
+          "max": 10,
+          "unit": "スルー",
+          "reward": "10スルー後の次回ボーナスでAT濃厚"
+        },
+        "extra": {
+          "label": "ラインポイント周期数",
+          "max": 5,
+          "unit": "周期",
+          "reward": "最大5周期でCZ当選"
+        }
+      }
+    },
+    {
+      "number": 43,
+      "machine": "スマスロ パリピ孔明",
+      "lending": "47",
+      "url": "https://pachimo.altema.jp/lparipitenjo",
+      "ceiling": "通常1009G、短縮時429G。周期条件も存在",
+      "status": "天井・仕様を参照",
+      "type": "天井あり/要確認"
+    },
+    {
+      "number": 44,
+      "machine": "スマスロ ゴッドイーター リザレクション",
+      "lending": "47",
+      "url": "https://nana-press.com/kaiseki/machine/767/22716/",
+      "ceiling": "既存機種データ参照",
+      "status": "公開期待値表あり",
+      "type": "既存収録"
+    },
+    {
+      "number": 45,
+      "machine": "スマスロ とんでもスキルで異世界放浪メシ",
+      "lending": "47",
+      "url": "https://slobase.jp/machines/tondemo-skill",
+      "ceiling": "通常1000G / リセット650G",
+      "status": "公開期待値表あり",
+      "type": "天井あり/要確認"
+    },
+    {
+      "number": 46,
+      "machine": "チバリヨ2",
+      "lending": "47",
+      "url": "https://www.p-world.co.jp/machine/database/10014",
+      "ceiling": "通常時999G＋α、設定変更後最大600G＋α（モード別短縮）。チェリー最大45回。",
+      "status": "天井・仕様を参照",
+      "type": "天井あり/要確認",
+      "additionalConditions": {
+        "extra": {
+          "label": "チェリー累計回数",
+          "max": 45,
+          "unit": "回",
+          "reward": "最大45回で規定チェリー回数に到達"
+        }
+      }
+    },
+    {
+      "number": 51,
+      "machine": "スマスロ シャーマンキング",
+      "lending": "47",
+      "url": "https://nana-press.com/kaiseki/machine/898/27187/",
+      "ceiling": "ボーナス間800G、設定変更後500G。AT非当選10スルーも搭載",
+      "status": "天井・仕様を参照",
+      "type": "天井あり/要確認",
+      "additionalConditions": {
+        "through": {
+          "label": "AT非当選ボーナス回数",
+          "max": 10,
+          "unit": "スルー",
+          "reward": "最大10回スルーでAT当選",
+          "url": "https://nana-press.com/kaiseki/machine/898/27187/"
+        }
+      }
+    },
+    {
+      "number": 52,
+      "machine": "スマスロ 北斗の拳 転生の章2",
+      "lending": "47/160",
+      "url": "https://nana-press.com/kaiseki/machine/1059/33018/",
+      "ceiling": "既存機種データ参照",
+      "status": "公開期待値表あり",
+      "type": "既存収録"
+    },
+    {
+      "number": 54,
+      "machine": "モグモグ風林火山 大海戦の巻",
+      "lending": "47",
+      "url": "https://jugglersnet.com/chumoku/mogumogu-hurinkazan",
+      "ceiling": "6周期天井。周期数と実ゲーム数は一致しません",
+      "status": "天井・仕様を参照",
+      "type": "天井あり/要確認"
+    },
+    {
+      "number": 55,
+      "machine": "L 喰霊-零-Re",
+      "lending": "47",
+      "url": "https://jugglersnet.com/chumoku/garei-zero-re",
+      "ceiling": "999Gでボーナス/ARTの条件を確認",
+      "status": "天井・仕様を参照",
+      "type": "天井あり/要確認"
+    },
+    {
+      "number": 56,
+      "machine": "L うみねこのなく頃に2",
+      "lending": "47",
+      "url": "https://nana-press.com/kaiseki/machine/1089/34703/",
+      "ceiling": "CZ間200GでCZ「運命分岐モード」に突入。ART突入は保証されません。",
+      "status": "天井・仕様を参照",
+      "type": "天井あり/要確認"
+    },
+    {
+      "number": 57,
+      "machine": "アニマルスロット ドッチ",
+      "lending": "47",
+      "url": "https://hisshobon.com/machineinfo/89297/",
+      "ceiling": "BIG間999G / REG間499G、設定変更後短縮条件",
+      "status": "天井・仕様を参照",
+      "type": "天井あり/要確認"
+    },
+    {
+      "number": 62,
+      "machine": "スロット ワールドダイスター",
+      "lending": "47",
+      "url": "https://jugglersnet.com/chumoku/world-dai-star",
+      "ceiling": "通常999G",
+      "status": "天井・仕様を参照",
+      "type": "天井あり/要確認"
+    },
+    {
+      "number": 68,
+      "machine": "L 転生王女と天才令嬢の魔法革命",
+      "lending": "47",
+      "url": "https://pachiyomi.com/slot/l-tensei-oujo-mahou-kakumei",
+      "ceiling": "ボーナス510G/リセット410G、CZ間410G/リセット310G",
+      "status": "天井・仕様を参照",
+      "type": "天井あり/要確認"
+    },
+    {
+      "number": 69,
+      "machine": "七つの魔剣が支配する",
+      "lending": "47",
+      "url": "https://nana-press.com/kaiseki/machine/877/26839/",
+      "ceiling": "通常1000G / 設定変更後650G。キンバリーボーナス4スルー後次回で恩恵。",
+      "status": "公開期待値表あり",
+      "type": "天井あり/要確認",
+      "additionalConditions": {
+        "through": {
+          "label": "キンバリーBONUSのSTスルー",
+          "max": 4,
+          "unit": "スルー",
+          "reward": "4スルー後の次回ボーナスでプロローグBONUS",
+          "url": "https://nana-press.com/kaiseki/machine/877/26839/"
+        }
+      }
+    },
+    {
+      "number": 70,
+      "machine": "L 牙狼 闇を照らす者",
+      "lending": "47",
+      "url": "https://jugglersnet.com/chumoku/garo-yamioterasumono",
+      "ceiling": "通常999G / リセット777G",
+      "status": "天井・仕様を参照",
+      "type": "天井あり/要確認"
+    },
+    {
+      "number": 71,
+      "machine": "L ルパン三世 大航海者の秘宝",
+      "lending": "47",
+      "url": "https://nana-press.com/kaiseki/machine/851/25842/",
+      "ceiling": "通常1000G / リセット700G",
+      "status": "公開期待値表あり",
+      "type": "天井あり/要確認"
+    },
+    {
+      "number": 72,
+      "machine": "L バンドリ！",
+      "lending": "47",
+      "url": "https://jugglersnet.com/chumoku/bandori",
+      "ceiling": "最大10周期でのAT/CZスルー天井（機種記事で個別確認）",
+      "status": "天井・仕様を参照",
+      "type": "天井あり/要確認",
+      "additionalConditions": {
+        "extra": {
+          "label": "CZ/ATの周期数",
+          "max": 10,
+          "unit": "周期",
+          "reward": "最大10周期（内部モード等で異なる）"
+        }
+      }
+    },
+    {
+      "number": 73,
+      "machine": "スマスロ 鉄拳6",
+      "lending": "47/160",
+      "url": "https://nana-press.com/kaiseki/machine/1069/33997/",
+      "ceiling": "通常900pt/リセット500pt。ゲーム数とは異なるポイント天井",
+      "status": "天井・仕様を参照",
+      "type": "天井あり/要確認"
+    },
+    {
+      "number": 74,
+      "machine": "スマスロ バイオハザード5",
+      "lending": "47/160",
+      "url": "https://nana-press.com/kaiseki/machine/904/27891/",
+      "ceiling": "AT間通常999G＋α、設定変更後666G＋α。天井到達時はAT＋次回99G短縮。",
+      "status": "公開期待値表あり",
+      "type": "天井あり/要確認"
+    },
+    {
+      "number": 75,
+      "machine": "L ダンベル何キロ持てる？",
+      "lending": "47",
+      "url": "https://nana-press.com/kaiseki/machine/855/25383/",
+      "ceiling": "AT間1500G/短縮1000G、CZ間750Gまたは10万kcal",
+      "status": "天井・仕様を参照",
+      "type": "天井あり/要確認"
+    },
+    {
+      "number": 76,
+      "machine": "L タクトオーパス デスティニー",
+      "lending": "47",
+      "url": "https://jugglersnet.com/chumoku/takt-op-destiny",
+      "ceiling": "AT間999G、CZ間500G/設定変更後300G",
+      "status": "天井・仕様を参照",
+      "type": "天井あり/要確認"
+    },
+    {
+      "number": 77,
+      "machine": "L ダーリン・イン・ザ・フランキス",
+      "lending": "47",
+      "url": "https://nana-press.com/kaiseki/machine/989/31174/",
+      "ceiling": "通常666G、リセット390G、REG4スルーの別条件",
+      "status": "天井・仕様を参照",
+      "type": "天井あり/要確認",
+      "additionalConditions": {
+        "through": {
+          "label": "REG連続スルー",
+          "max": 4,
+          "unit": "スルー",
+          "reward": "4回スルー後の次回ボーナス種別が優遇",
+          "url": "https://hisshobon.com/machineinfo/87891/"
+        }
+      }
+    },
+    {
+      "number": 78,
+      "machine": "スロット ゾンビランドサガ",
+      "lending": "47",
+      "url": "https://nana-press.com/kaiseki/machine/776/22675/",
+      "ceiling": "通常777G、設定変更後555G。斜めSAGA揃い30回天井もある",
+      "status": "天井・仕様を参照",
+      "type": "天井あり/要確認",
+      "additionalConditions": {
+        "extra": {
+          "label": "斜めSAGA揃い累計",
+          "max": 30,
+          "unit": "回",
+          "reward": "30回で規定回数天井の可能性"
+        }
+      }
+    },
+    {
+      "number": 79,
+      "machine": "L シン・エヴァンゲリオン",
+      "lending": "47",
+      "url": "https://nana-press.com/kaiseki/machine/893/26803/",
+      "ceiling": "初当たり間通常800G、設定変更後650G。ST駆け抜け後は550G以内。ボーナス間1200Gは別条件。",
+      "status": "公開期待値表あり",
+      "type": "天井あり/要確認"
+    },
+    {
+      "number": 80,
+      "machine": "Sister Quest",
+      "lending": "47",
+      "url": "https://nana-press.com/kaiseki/machine/906/27930/",
+      "ceiling": "AT間2000G、CZ獲得EXP等の別条件あり。リセット500はCZ側の短縮でありAT間天井ではない",
+      "status": "天井・仕様を参照",
+      "type": "天井あり/要確認"
+    },
+    {
+      "number": 81,
+      "machine": "L アズールレーン THE ANIMATION",
+      "lending": "47/160",
+      "url": "https://kozelog.net/machine/kyoraku/azurlane/",
+      "ceiling": "ボーナス350G/リセット320G、AT間2000G/スルー最大9回",
+      "status": "公開期待値表あり",
+      "type": "天井あり/要確認",
+      "additionalConditions": {
+        "through": {
+          "label": "ボーナスAT非当選回数",
+          "max": 9,
+          "resetMax": 6,
+          "unit": "スルー",
+          "reward": "通常9回/設定変更後6回スルーで、次回ボーナスからAT",
+          "url": "https://nana-press.com/kaiseki/machine/993/31187/"
+        }
+      }
+    },
+    {
+      "number": 83,
+      "machine": "吉宗",
+      "lending": "47",
+      "url": "https://nana-press.com/kaiseki/machine/920/29004/",
+      "ceiling": "最大999G。内部モードにより短縮（465G/193G等）",
+      "status": "天井・仕様を参照",
+      "type": "天井あり/要確認"
+    },
+    {
+      "number": 84,
+      "machine": "スマスロ バジリスク～甲賀忍法帖～絆2 天膳 BLACK EDITION",
+      "lending": "47",
+      "url": "https://nana-press.com/kaiseki/machine/666/18317/",
+      "ceiling": "BC間333GでBC。BT間7スルー等を別途確認",
+      "status": "公開期待値表あり",
+      "type": "天井あり/要確認",
+      "additionalConditions": {
+        "through": {
+          "label": "BCスルー回数",
+          "max": 7,
+          "unit": "スルー",
+          "reward": "最大7スルー後の8回目BCでBT当選。テーブルによって早まる",
+          "url": "https://nana-press.com/kaiseki/machine/666/18317/"
+        }
+      },
+      "throughEVSource": "https://ichikatsu.com/tenzen/"
+    },
+    {
+      "number": 85,
+      "machine": "いざ！番長",
+      "lending": "47",
+      "url": "https://nana-press.com/kaiseki/machine/946/",
+      "ceiling": "最大999G＋α、設定変更後は最大600G＋αに短縮。周期モードなどで変動。",
+      "status": "天井・仕様を参照",
+      "type": "天井あり/要確認"
+    },
+    {
+      "number": 86,
+      "machine": "スマスロ 痛いのは嫌なので防御力に極振りしたいと思います。",
+      "lending": "47",
+      "url": "https://www.rakupachi.com/machines/ceiling-list",
+      "ceiling": "通常950G＋α、設定変更後は450G＋α（70%）または650G＋α（30%）へ短縮。",
+      "status": "天井・仕様を参照",
+      "type": "天井あり/要確認"
+    },
+    {
+      "number": 87,
+      "machine": "スマスロ 東京リベンジャーズ",
+      "lending": "47",
+      "url": "https://nana-press.com/kaiseki/machine/1014/31676/",
+      "ceiling": "通常1190G、短縮900G、スルーや周期条件も存在",
+      "status": "天井・仕様を参照",
+      "type": "天井あり/要確認"
+    },
+    {
+      "number": 88,
+      "machine": "スマスロ 化物語",
+      "lending": "47",
+      "url": "https://jugglersnet.com/chumoku/smaslo-bakemonogatari",
+      "ceiling": "1000G、設定変更後600G。天井到達でAT＋倍倍チャンス",
+      "status": "天井・仕様を参照",
+      "type": "天井あり/要確認"
+    },
+    {
+      "number": 89,
+      "machine": "L からくりサーカス2",
+      "lending": "160",
+      "url": "https://slobase.jp/machines/karakuri-circus2",
+      "ceiling": "CZ間実890G、AT間2500G、液晶Gは別カウンタ",
+      "status": "公開期待値表あり",
+      "type": "天井あり/要確認"
+    },
+    {
+      "number": 90,
+      "machine": "L 虚構推理",
+      "lending": "160",
+      "url": "https://jugglersnet.com/chumoku/kyokosuiri",
+      "ceiling": "通常液晶1000G、設定変更後300Gまたは700Gに短縮",
+      "status": "天井・仕様を参照",
+      "type": "天井あり/要確認"
+    },
+    {
+      "number": 91,
+      "machine": "スマスロ スーパーリオエース2",
+      "lending": "160",
+      "url": "https://nana-press.com/kaiseki/machine/1143/36738/",
+      "ceiling": "通常750G/リセット500G、7スルー/4スルー別条件",
+      "status": "天井・仕様を参照",
+      "type": "天井あり/要確認",
+      "additionalConditions": {
+        "through": {
+          "label": "ボーナスAT非当選回数",
+          "max": 7,
+          "resetMax": 4,
+          "unit": "スルー",
+          "reward": "通常7スルー後8回目/リセット4スルー後5回目でAT",
+          "url": "https://nana-press.com/kaiseki/machine/1143/36738/"
+        }
+      }
+    },
+    {
+      "number": 92,
+      "machine": "スマスロ BIRDIE WING -Golf Girls’ Story-",
+      "lending": "160",
+      "url": "https://nana-press.com/kaiseki/machine/1157/37212/",
+      "ceiling": "最大10周期（設定変更後7周期）の天井。実G固定ではない",
+      "status": "天井・仕様を参照",
+      "type": "天井あり/要確認",
+      "additionalConditions": {
+        "extra": {
+          "label": "周期数",
+          "max": 10,
+          "resetMax": 7,
+          "unit": "周期",
+          "reward": "通常最大10周期/リセット最大7周期で当選"
+        }
+      }
+    },
+    {
+      "number": 93,
+      "machine": "スマスロ デビル メイ クライ5 スタイリッシュトライブ",
+      "lending": "160",
+      "url": "https://nana-press.com/kaiseki/machine/959/29919/",
+      "ceiling": "液晶1000G/短縮800G、CZ10周期の条件が別にある",
+      "status": "天井・仕様を参照",
+      "type": "天井あり/要確認",
+      "additionalConditions": {
+        "extra": {
+          "label": "CZの周期数",
+          "max": 10,
+          "unit": "周期",
+          "reward": "CZ周期の最大10周期（液晶G天井とは別）"
+        }
+      }
+    },
+    {
+      "number": 94,
+      "machine": "スマスロ キングパルサー",
+      "lending": "160",
+      "url": "https://hisshobon.com/machineinfo/82899/",
+      "ceiling": "通常960G/設定変更後512G",
+      "status": "天井・仕様を参照",
+      "type": "天井あり/要確認"
+    }
+  ]
+}
