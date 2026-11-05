@@ -1,0 +1,478 @@
+{
+  "store": "123＋Nはりまや橋店",
+  "pworld_last_updated": "2026-11-04",
+  "checked_at": "2026-11-05",
+  "source": "https://www.p-world.co.jp/kochi/123harimayabashi.htm",
+  "roster": [
+    {
+      "name": "ゴーゴージャグラー3",
+      "loan": "47",
+      "modelId": null
+    },
+    {
+      "name": "ネオアイムジャグラーEX",
+      "loan": "47",
+      "modelId": null
+    },
+    {
+      "name": "マイジャグラーVI",
+      "loan": "47",
+      "modelId": null
+    },
+    {
+      "name": "マイジャグラーV",
+      "loan": "47",
+      "modelId": null
+    },
+    {
+      "name": "ファンキージャグラー2",
+      "loan": "47",
+      "modelId": null
+    },
+    {
+      "name": "ハッピージャグラーV III",
+      "loan": "47",
+      "modelId": null
+    },
+    {
+      "name": "ミスタージャグラー",
+      "loan": "47",
+      "modelId": null
+    },
+    {
+      "name": "ジャグラーガールズSS",
+      "loan": "47",
+      "modelId": null
+    },
+    {
+      "name": "ウルトラミラクルジャグラー",
+      "loan": "47",
+      "modelId": null
+    },
+    {
+      "name": "スマスロ 甲鉄城のカバネリ 海門決戦",
+      "loan": "47/160",
+      "modelId": "kabaneri2"
+    },
+    {
+      "name": "L 東京喰種",
+      "loan": "47/160",
+      "modelId": "tokyo"
+    },
+    {
+      "name": "スマスロ リコリス・リコイル",
+      "loan": "47",
+      "modelId": null
+    },
+    {
+      "name": "スマスロ ミリオンゴッド-神々の軌跡-",
+      "loan": "47/160",
+      "modelId": null
+    },
+    {
+      "name": "L 戦国乙女5 業火を穿つ宿焔の双刃",
+      "loan": "47/160",
+      "modelId": null
+    },
+    {
+      "name": "スマスロ モンキーターンV",
+      "loan": "47/160",
+      "modelId": "monkey"
+    },
+    {
+      "name": "スロット ソードアート・オンラインII",
+      "loan": "47",
+      "modelId": "sao2"
+    },
+    {
+      "name": "L 聖闘士星矢 黄金十二宮",
+      "loan": "47",
+      "modelId": null
+    },
+    {
+      "name": "スマスロ 獣王",
+      "loan": "47/160",
+      "modelId": null
+    },
+    {
+      "name": "スマスロ モンスターハンターライズ：サンブレイク",
+      "loan": "47/160",
+      "modelId": null
+    },
+    {
+      "name": "L 革命機ヴァルヴレイヴ2",
+      "loan": "47/160",
+      "modelId": "vvv"
+    },
+    {
+      "name": "スマスロ とある魔術の禁書目録2",
+      "loan": "47/160",
+      "modelId": null
+    },
+    {
+      "name": "真打 吉宗",
+      "loan": "47",
+      "modelId": null
+    },
+    {
+      "name": "L ゴジラ対エヴァンゲリオン2",
+      "loan": "47/160",
+      "modelId": null
+    },
+    {
+      "name": "L 青春ブタ野郎はバニーガール先輩の夢を見ない",
+      "loan": "47/160",
+      "modelId": null
+    },
+    {
+      "name": "A-SLOT+ ディスクアップ ULTRAREMIX",
+      "loan": "47",
+      "modelId": null
+    },
+    {
+      "name": "沖ドキ！BLACK",
+      "loan": "47",
+      "modelId": null
+    },
+    {
+      "name": "戦国コレクション6",
+      "loan": "47/160",
+      "modelId": null
+    },
+    {
+      "name": "スマスロ ラグナドール",
+      "loan": "47",
+      "modelId": null
+    },
+    {
+      "name": "スマスロ モンスターハンターライズ",
+      "loan": "47/160",
+      "modelId": null
+    },
+    {
+      "name": "L ソードアート・オンライン オルタナティブ ガンゲイル・オンライン",
+      "loan": "47",
+      "modelId": null
+    },
+    {
+      "name": "スマスロ マギアレコード 魔法少女まどか☆マギカ外伝",
+      "loan": "47/160",
+      "modelId": "magi"
+    },
+    {
+      "name": "スロット Vivy -Fluorite Eye’s Song-",
+      "loan": "47",
+      "modelId": null
+    },
+    {
+      "name": "スマスロ 北斗の拳",
+      "loan": "47",
+      "modelId": "hokuto"
+    },
+    {
+      "name": "L 魔法少女にあこがれて",
+      "loan": "47/160",
+      "modelId": null
+    },
+    {
+      "name": "L 炎炎ノ消防隊2",
+      "loan": "47/160",
+      "modelId": null
+    },
+    {
+      "name": "L 彼女、お借りします",
+      "loan": "47/160",
+      "modelId": null
+    },
+    {
+      "name": "スマスロ やじきた道中記参る！",
+      "loan": "47/160",
+      "modelId": null
+    },
+    {
+      "name": "L ToLOVEるダークネス TRANCE ver.8.7",
+      "loan": "47/160",
+      "modelId": null
+    },
+    {
+      "name": "スマスロ サンダーV",
+      "loan": "47",
+      "modelId": null
+    },
+    {
+      "name": "スマスロ 攻殻機動隊",
+      "loan": "47/160",
+      "modelId": null
+    },
+    {
+      "name": "L 南国育ち SPECIAL",
+      "loan": "47",
+      "modelId": null
+    },
+    {
+      "name": "L 邪神ちゃんドロップキック",
+      "loan": "47",
+      "modelId": null
+    },
+    {
+      "name": "スマスロ パリピ孔明",
+      "loan": "47",
+      "modelId": null
+    },
+    {
+      "name": "スマスロ ゴッドイーター リザレクション",
+      "loan": "47",
+      "modelId": "god"
+    },
+    {
+      "name": "スマスロ とんでもスキルで異世界放浪メシ",
+      "loan": "47",
+      "modelId": null
+    },
+    {
+      "name": "チバリヨ2",
+      "loan": "47",
+      "modelId": null
+    },
+    {
+      "name": "アレックス ブライト",
+      "loan": "47",
+      "modelId": null
+    },
+    {
+      "name": "スマスロ タコスロ",
+      "loan": "47",
+      "modelId": null
+    },
+    {
+      "name": "クレアの秘宝伝 ボーナストリガーver.",
+      "loan": "47",
+      "modelId": null
+    },
+    {
+      "name": "スマスロ ハナビ",
+      "loan": "47",
+      "modelId": null
+    },
+    {
+      "name": "スマスロ シャーマンキング",
+      "loan": "47",
+      "modelId": null
+    },
+    {
+      "name": "スマスロ 北斗の拳 転生の章2",
+      "loan": "47/160",
+      "modelId": "tensei2"
+    },
+    {
+      "name": "新ハナビ",
+      "loan": "47",
+      "modelId": null
+    },
+    {
+      "name": "モグモグ風林火山 大海戦の巻",
+      "loan": "47",
+      "modelId": null
+    },
+    {
+      "name": "L 喰霊-零-Re",
+      "loan": "47",
+      "modelId": null
+    },
+    {
+      "name": "L うみねこのなく頃に2",
+      "loan": "47",
+      "modelId": null
+    },
+    {
+      "name": "アニマルスロット ドッチ",
+      "loan": "47",
+      "modelId": null
+    },
+    {
+      "name": "L 不二子BT",
+      "loan": "47",
+      "modelId": null
+    },
+    {
+      "name": "スマスロ ケロット5BT",
+      "loan": "47",
+      "modelId": null
+    },
+    {
+      "name": "SHAKE BONUS TRIGGER",
+      "loan": "47",
+      "modelId": null
+    },
+    {
+      "name": "A-SLOT+ 異世界かるてっとBT",
+      "loan": "47",
+      "modelId": null
+    },
+    {
+      "name": "スロット ワールドダイスター",
+      "loan": "47",
+      "modelId": null
+    },
+    {
+      "name": "ニューパルサーSP4 with 太鼓の達人",
+      "loan": "47",
+      "modelId": null
+    },
+    {
+      "name": "バーサスリヴァイズ",
+      "loan": "47",
+      "modelId": null
+    },
+    {
+      "name": "クランキークレスト",
+      "loan": "47",
+      "modelId": null
+    },
+    {
+      "name": "パチスロ ディスクアップ2",
+      "loan": "47",
+      "modelId": null
+    },
+    {
+      "name": "パチスロ 交響詩篇エウレカセブン HI-EVOLUTION ZERO TYPE-ART",
+      "loan": "47",
+      "modelId": null
+    },
+    {
+      "name": "L 転生王女と天才令嬢の魔法革命",
+      "loan": "47",
+      "modelId": null
+    },
+    {
+      "name": "七つの魔剣が支配する",
+      "loan": "47",
+      "modelId": null
+    },
+    {
+      "name": "L 牙狼 闇を照らす者",
+      "loan": "47",
+      "modelId": null
+    },
+    {
+      "name": "L ルパン三世 大航海者の秘宝",
+      "loan": "47",
+      "modelId": null
+    },
+    {
+      "name": "L バンドリ！",
+      "loan": "47",
+      "modelId": null
+    },
+    {
+      "name": "スマスロ 鉄拳6",
+      "loan": "47/160",
+      "modelId": null
+    },
+    {
+      "name": "スマスロ バイオハザード5",
+      "loan": "47/160",
+      "modelId": null
+    },
+    {
+      "name": "L ダンベル何キロ持てる？",
+      "loan": "47",
+      "modelId": null
+    },
+    {
+      "name": "L タクトオーパス デスティニー",
+      "loan": "47",
+      "modelId": null
+    },
+    {
+      "name": "L ダーリン・イン・ザ・フランキス",
+      "loan": "47",
+      "modelId": null
+    },
+    {
+      "name": "スロット ゾンビランドサガ",
+      "loan": "47",
+      "modelId": null
+    },
+    {
+      "name": "L シン・エヴァンゲリオン",
+      "loan": "47",
+      "modelId": null
+    },
+    {
+      "name": "Sister Quest",
+      "loan": "47",
+      "modelId": null
+    },
+    {
+      "name": "L アズールレーン THE ANIMATION",
+      "loan": "47/160",
+      "modelId": null
+    },
+    {
+      "name": "LB ヱヴァンゲリヲン ～約束の扉～",
+      "loan": "47",
+      "modelId": null
+    },
+    {
+      "name": "吉宗",
+      "loan": "47",
+      "modelId": null
+    },
+    {
+      "name": "スマスロ バジリスク～甲賀忍法帖～絆2 天膳 BLACK EDITION",
+      "loan": "47",
+      "modelId": null
+    },
+    {
+      "name": "いざ！番長",
+      "loan": "47",
+      "modelId": null
+    },
+    {
+      "name": "スマスロ 痛いのは嫌なので防御力に極振りしたいと思います。",
+      "loan": "47",
+      "modelId": null
+    },
+    {
+      "name": "スマスロ 東京リベンジャーズ",
+      "loan": "47",
+      "modelId": null
+    },
+    {
+      "name": "スマスロ 化物語",
+      "loan": "47",
+      "modelId": null
+    },
+    {
+      "name": "L からくりサーカス2",
+      "loan": "160",
+      "modelId": null
+    },
+    {
+      "name": "L 虚構推理",
+      "loan": "160",
+      "modelId": null
+    },
+    {
+      "name": "スマスロ スーパーリオエース2",
+      "loan": "160",
+      "modelId": null
+    },
+    {
+      "name": "スマスロ BIRDIE WING -Golf Girls’ Story-",
+      "loan": "160",
+      "modelId": null
+    },
+    {
+      "name": "スマスロ デビル メイ クライ5 スタイリッシュトライブ",
+      "loan": "160",
+      "modelId": null
+    },
+    {
+      "name": "スマスロ キングパルサー",
+      "loan": "160",
+      "modelId": null
+    }
+  ]
+}
